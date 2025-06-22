@@ -48,10 +48,6 @@ The core of the prediction system is built around **Logistic Regression**. This 
 
 The `model.py` script houses the pipeline and the trained Logistic Regression model, along with the preprocessing steps. This ensures that the same transformations applied during training are consistently applied during inference.
 
-## Results
-
-*(To be filled by the user, if available from notebooks: e.g., "The Logistic Regression model achieved an accuracy of XX% on the test set, with a precision of YY% and recall of ZZ%." or "Key features influencing absenteeism were identified as [list key features].")*
-
 ## Project Structure
 
 ```
@@ -143,3 +139,5 @@ Follow these steps to set up the project locally and interact with the model:
 * **More Granular Prediction:** Instead of just binary classification (absent/not absent), predict the `Absenteeism Time in Hours` (regression) if the business need arises.
 * **Feature Importance Visualization:** Add visualizations to show the importance of each feature in the model's predictions.
 * **Live Data Integration:** If applicable, integrate with real-time HR data systems for automated absenteeism prediction.
+
+![output](https://github.com/user-attachments/assets/a743ca44-5f5b-418e-93d8-3ded841aaa2a)
