@@ -140,4 +140,5 @@ Follow these steps to set up the project locally and interact with the model:
 * **Feature Importance Visualization:** Add visualizations to show the importance of each feature in the model's predictions.
 * **Live Data Integration:** If applicable, integrate with real-time HR data systems for automated absenteeism prediction.
 
+## Output
 ![output](https://github.com/user-attachments/assets/a743ca44-5f5b-418e-93d8-3ded841aaa2a)
